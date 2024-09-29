@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a27c7570-124b-4ef7-821d-7e31a89fd715",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 95,
+  "height": 107,
+  "platformSettings": {},
+  "subMetas": {
+    "更多好玩 拷贝 4": {
+      "ver": "1.0.4",
+      "uuid": "e5e23c43-fde0-4772-bf2d-364f3b4021d8",
+      "rawTextureUuid": "a27c7570-124b-4ef7-821d-7e31a89fd715",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 95,
+      "height": 107,
+      "rawWidth": 95,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

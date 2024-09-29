@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jb4",
+    "texture": "0189b6c8-460b-4ab8-bcdc-ae695a24e090",
+    "atlas": "412bb7c2-a563-4b3b-a48e-4eb392bc0530",
+    "rect": [
+      64,
+      118,
+      13,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      13,
+      60
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "QWERTY",
+    "texture": "8984af21-ba63-4145-995e-b0f6f2d31675",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      106,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

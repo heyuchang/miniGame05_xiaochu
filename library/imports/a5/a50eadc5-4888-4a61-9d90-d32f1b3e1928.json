@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vedioIcon",
+    "texture": "1ff39736-1701-4571-803f-15830a021761",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      43,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

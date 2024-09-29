@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fanhuizhuye",
+    "texture": "22d0b5c7-6211-44ed-8d0f-7c0903038a29",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lisiziugao",
+    "texture": "2e9b0973-2f6a-48a8-8505-87b6436e7692",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      25
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

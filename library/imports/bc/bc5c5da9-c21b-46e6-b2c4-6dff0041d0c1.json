@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "defen",
+    "texture": "cf822837-57e9-422e-b3b3-fc27243c5f14",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      149,
+      78
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      149,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

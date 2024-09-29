@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "20e8851c-3692-4ee4-80a8-d809a40c0beb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 482,
+  "height": 46,
+  "platformSettings": {},
+  "subMetas": {
+    "没有可以消除的同色方块": {
+      "ver": "1.0.4",
+      "uuid": "4cd7f8d8-6ef7-4645-b9c2-c56ade24cdc1",
+      "rawTextureUuid": "20e8851c-3692-4ee4-80a8-d809a40c0beb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 482,
+      "height": 46,
+      "rawWidth": 482,
+      "rawHeight": 46,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

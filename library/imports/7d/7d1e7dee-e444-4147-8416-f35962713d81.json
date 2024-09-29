@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tanchuang",
+    "texture": "e6883e97-1e74-48c3-b722-e82cac2aa563",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      227
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      227
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

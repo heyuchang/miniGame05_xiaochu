@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "体力已满",
+    "texture": "14991999-f12e-47b6-aeb3-02547d2d53b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      101,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      101,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

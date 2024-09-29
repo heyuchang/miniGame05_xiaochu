@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "没有合适的方块",
+    "texture": "53f58680-5d49-4440-ac1c-5b247caaa83f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      306,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      306,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

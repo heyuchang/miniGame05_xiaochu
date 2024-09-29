@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "漂亮,连消",
+    "texture": "e837c409-df2b-4141-b787-fa4ece092a55",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      298,
+      61
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      298,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

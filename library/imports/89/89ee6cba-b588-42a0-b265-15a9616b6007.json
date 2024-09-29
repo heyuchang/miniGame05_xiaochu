@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hintBlock",
+    "texture": "f13dbe45-21aa-403f-b0a5-0e4e7e03ac09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      52,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      52,
+      30
+    ],
+    "capInsets": [
+      26,
+      15,
+      26,
+      15
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ad-native-confirm",
+    "texture": "8d4f42ea-7e62-4ec2-86fe-99fc152e8727",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      117
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      117
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

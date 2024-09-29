@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xinjilu",
+    "texture": "f0aded7c-8542-48b4-9e85-24b8abf36c1a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

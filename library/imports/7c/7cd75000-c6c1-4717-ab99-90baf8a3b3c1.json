@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "击碎3个或以上的方块",
+    "texture": "cc3c002e-1a1d-4a0e-8695-a4b31c9a6501",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      212,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

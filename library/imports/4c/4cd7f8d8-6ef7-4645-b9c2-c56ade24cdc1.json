@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "没有可以消除的同色方块",
+    "texture": "20e8851c-3692-4ee4-80a8-d809a40c0beb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      482,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      482,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

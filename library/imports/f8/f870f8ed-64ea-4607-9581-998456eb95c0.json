@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "锤子",
+    "texture": "a3bac9c0-39a8-4393-a8ce-49561e9723d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

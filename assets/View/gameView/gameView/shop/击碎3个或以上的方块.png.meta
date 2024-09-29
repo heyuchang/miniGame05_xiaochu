@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cc3c002e-1a1d-4a0e-8695-a4b31c9a6501",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 212,
+  "height": 24,
+  "platformSettings": {},
+  "subMetas": {
+    "击碎3个或以上的方块": {
+      "ver": "1.0.4",
+      "uuid": "7cd75000-c6c1-4717-ab99-90baf8a3b3c1",
+      "rawTextureUuid": "cc3c002e-1a1d-4a0e-8695-a4b31c9a6501",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 212,
+      "height": 24,
+      "rawWidth": 212,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

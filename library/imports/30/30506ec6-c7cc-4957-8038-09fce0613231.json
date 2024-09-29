@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "上面金币 ",
+    "texture": "409cb7dc-72fd-4743-b3c3-05c81570ea71",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      66,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

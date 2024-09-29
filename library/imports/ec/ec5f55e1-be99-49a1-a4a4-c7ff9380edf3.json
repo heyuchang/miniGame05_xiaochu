@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "消除同颜色的方块",
+    "texture": "b005f3e5-9a1a-48c0-bf7d-cc3658ce23e9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      178,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      178,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+info face="face" size=30
+common lineHeight=30 scaleW=108 scaleH=62 pages=1
+page id=0 file="QWERTY.png"
+chars count=10
+char id=57 x=0 y=0 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=56 x=22 y=0 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=55 x=44 y=0 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=54 x=0 y=32 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=53 x=22 y=32 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=52 x=44 y=32 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=51 x=66 y=0 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=50 x=66 y=32 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=49 x=88 y=0 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=48 x=88 y=32 width=20 height=30 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15

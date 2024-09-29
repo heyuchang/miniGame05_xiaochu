@@ -1,0 +1,17 @@
+info face="face" size=82
+common lineHeight=82 scaleW=279 scaleH=215 pages=1
+page id=0 file="test.png"
+chars count=13
+char id=43 x=202 y=0 width=45 height=70 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=48 x=0 y=71 width=48 height=71 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=49 x=90 y=144 width=31 height=70 xoffset=0 yoffset=0 xadvance=31 page=0 chnl=15
+char id=50 x=202 y=72 width=45 height=70 xoffset=0 yoffset=0 xadvance=45 page=0 chnl=15
+char id=51 x=0 y=144 width=43 height=71 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=52 x=0 y=0 width=52 height=69 xoffset=0 yoffset=0 xadvance=52 page=0 chnl=15
+char id=53 x=45 y=144 width=43 height=70 xoffset=0 yoffset=0 xadvance=43 page=0 chnl=15
+char id=54 x=104 y=0 width=47 height=71 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=55 x=153 y=73 width=47 height=69 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=56 x=54 y=0 width=48 height=71 xoffset=0 yoffset=0 xadvance=48 page=0 chnl=15
+char id=57 x=153 y=0 width=47 height=71 xoffset=0 yoffset=0 xadvance=47 page=0 chnl=15
+char id=65288 x=249 y=0 width=30 height=82 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15
+char id=65289 x=249 y=84 width=30 height=82 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=15

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "juxi",
+    "texture": "6e0007ab-29b1-4267-bcad-e43679a78a9a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      17,
+      819
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      17,
+      819
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "体力盖",
+    "texture": "96b33ad7-772e-44ad-81e4-694666007dc8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
